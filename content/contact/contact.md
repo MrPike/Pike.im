@@ -9,7 +9,7 @@ title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-autolink = true
+autolink = false
 
 # Email form provider
 #   0: Disable email form
@@ -19,6 +19,6 @@ email_form = 1
 
 # Netlify form settings.
 [netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
+  captcha = true  # Enable CAPTCHA challenge to reduce spam?
 +++
 

@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 2
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -25,11 +25,7 @@ subtitle = ""
   link_to_archive = false
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+
   
 [design]
   # Toggle between the various page layout types.

@@ -4,7 +4,7 @@ title: Matthew Pike
 
 # Username (this should match the folder name)
 authors:
-- admin
+- matt
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,11 +18,11 @@ organizations:
   url: https://www.nottingham.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Human-Computer Interaction, Human Factors and Brain-Computer Interfaces.
 
 interests:
-- Human-Computer Interaction
-- Non-Invasive Operator Monitoring
+- Modelling Mental Workload
+- Neuroadaptive Environments
 
 education:
   courses:
@@ -40,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: ""
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,15 +60,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Matthew Pike is a Assistant Professor in Computer Science at the University of Nottingham Ningbo China (UNNC). He is the cofounder of the HCI Lab and Sensors, Sensor Networks and Instrumentation (SSNI) research group at UNNC. 
